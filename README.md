@@ -10,7 +10,7 @@
 - PROTEUS
 
 ## QUESTION:
-### WHO SPEAKES MORE?
+- WHO SPEAKES MORE?
 
 ## Commands Used:
 - command i used to find the count of [VALENTINE](https://github.com/vineetha1996/vy-wrangle/blob/main/valentineCount.txt) 
