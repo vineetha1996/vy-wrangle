@@ -21,5 +21,5 @@
 
 ## QUESTION:
 ### WHO SPEAKES MORE?
-- VALENTINE speaks more as his count(152) is greaterthan the PORTEUS count(149).
+- VALENTINE speaks more as his count [152](https://github.com/vineetha1996/vy-wrangle/blob/main/valentineCount.txt) is greaterthan the PORTEUS count [149](https://github.com/vineetha1996/vy-wrangle/blob/main/proteusCount.txt).
 
