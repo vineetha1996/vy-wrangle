@@ -14,10 +14,10 @@
 
 ## Commands Used:
 -  ``` $ grep -i '^VALENTINE' gentlemen.txt ```
-  1) RESULT for above command: [VALENTINE](https://github.com/vineetha1996/vy-wrangle/blob/main/valentine.txt)
+  1) RESULT for above command: [TOTAL VALENTINE LIST](https://github.com/vineetha1996/vy-wrangle/blob/main/valentine.txt)
   
 -  ``` $ grep -i '^PROTEUS' gentlemen.txt ```
-  1) RESULT for above command: [PROTEUS](https://github.com/vineetha1996/vy-wrangle/blob/main/proteus.txt)
+  1) RESULT for above command: [TOTAL PROTEUS LIST](https://github.com/vineetha1996/vy-wrangle/blob/main/proteus.txt)
   
 - command i used to find the count of [VALENTINE](https://github.com/vineetha1996/vy-wrangle/blob/main/valentineCount.txt) 
 - ``` $ grep -i '^VALENTINE' gentlemen.txt -c ```
